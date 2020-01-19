@@ -3,6 +3,7 @@ package at.michaelkoenig.labor08.uebung3;
 import at.michaelkoenig.labor08.uebung3.filtercounter.*;
 
 public class Main {
+    /*Diagramm unter Windows 10 Whiteboard (Taskleiste)*/
     public static void main(String[] args) {
         Counter c1 = new BaseCounter(5);
         System.out.print(c1.read() + " ");
